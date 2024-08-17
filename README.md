@@ -1,3 +1,4 @@
+![Logo](https://github.com/harshmadankar15/harshmadankar15/blob/main/8398983.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Madankar</h1>
 <h3 align="center">Frontend Developer</h3>
 
